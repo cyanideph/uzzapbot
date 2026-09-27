@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+node_modules/
+.Deno/
+.supabase/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
